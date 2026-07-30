@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/glide_menu.dart';
+import '../src/glide_menu.dart';
 
 class DemoPage extends StatefulWidget {
   const DemoPage({super.key});
