@@ -50,7 +50,7 @@ import 'package:glide_menu/glide_menu.dart';
 Wrap any widget in a `GlideMenu` to give it a drag-to-select context menu.
 
 ```dart
-import 'package:playground/glide_menu/glide_menu.dart';
+import 'package:glide_menu/glide_menu.dart';
 
 GlideMenu<String>(
   items: const [
@@ -122,9 +122,3 @@ ElevatedButton(
 )
 ```
 
-### 2. SpringButton
-
-A standalone, bouncy button that scales down on press with configurable friction.
-
-```dart
-import 'package:playground/glide_menu/glide_menu.dart';
